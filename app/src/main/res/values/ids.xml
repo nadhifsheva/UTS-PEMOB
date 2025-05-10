@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtMotorGenre" type="id" />
+    <item name="etReqPassword" type="id" />
+    <item name="etConfirmPassword" type="id" />
+</resources>
